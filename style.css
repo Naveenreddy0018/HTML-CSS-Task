@@ -1,0 +1,14 @@
+.container {
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    align-content: center;
+    margin-left: 38%;
+    margin-right: 38%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+input {
+    padding: 4px;
+    margin-left: 4px;
+}
