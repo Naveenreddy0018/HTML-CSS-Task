@@ -1,0 +1,68 @@
+.container {
+    display: flex;
+    border: 3px solid black;
+    height: 100vh;
+
+}
+
+.container1 {
+    border: 3px solid black;
+    height: 97vh;
+    width: 25%;
+    margin: 5px;
+    padding : 5px;
+    background-color: brown;
+ 
+}
+
+.container2 {
+    border: 3px solid black;
+    height: 97vh;
+    padding : 6px;
+    width: 50%;
+    margin: 5px;
+    background-color: yellow;
+}
+
+.container3 {
+    border: 3px solid black;
+    height: 97vh;
+    padding: 5px;;
+    width: 25%;
+    margin: 5px;
+    background-color: brown;
+}
+.container11 {
+    border: 3px solid black;
+    height: 55vh;
+    margin-bottom: 8px;
+    background-color:red;
+ 
+}
+.container12 {
+    border: 3px solid black;
+    height: 37vh;
+    
+    margin: 5px;
+    background-color: blue;
+ 
+}
+.container21 {
+    border: 3px solid black;
+    height: 94vh;
+   
+    padding:  5px;
+    background-color: yellow;
+} 
+.container211 {
+    border: 3px solid black;
+    height: 35vh;
+    margin-bottom : 10px;
+    background-color: black;
+}
+.container212 {
+    border: 3px solid black;
+    height: 54vh;
+    margin: 5px;
+    background-color: black;
+}
